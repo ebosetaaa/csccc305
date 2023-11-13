@@ -1,5 +1,5 @@
 pub fn tuple_example(){
-    let person = ("Alice", 30, 5.8);
+    let person = ("ejola", 30, 5.8);
 
     println!("Tuple:");
     println!("Name:{}", person.0);
